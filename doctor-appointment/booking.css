@@ -436,7 +436,7 @@ select:hover {
 }
 
 .country-code {
-  width: 90px;
+  width: auto !important;
   flex-shrink: 0;
   font-size: 14px;
   padding: 10px 8px;
